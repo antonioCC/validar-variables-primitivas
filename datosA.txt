@@ -1,0 +1,6 @@
+double x=1.2;
+int a=1;
+String b="hola";
+if(x>1){
+System.out.println("mayor");
+}
