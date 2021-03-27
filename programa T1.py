@@ -46,4 +46,10 @@ elif p4.findall(mensaje)!=[]:#condicion para encontrar el primer patron (boolean
 	else:
 		print("error en la asignacion de una variable logica")#mensaje en caso de ser erroneo
 	archivo.close()
+	
 
+#antonio contreras collo
+#felipe balam canul
+#diana noh tun
+#gregorio poot cupul
+#
