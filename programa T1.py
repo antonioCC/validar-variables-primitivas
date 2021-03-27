@@ -48,8 +48,8 @@ elif p4.findall(mensaje)!=[]:#condicion para encontrar el primer patron (boolean
 	archivo.close()
 	
 
-#antonio contreras collo
-#felipe balam canul
-#diana noh tun
-#gregorio poot cupul
-#
+print("antonio contreras colli")
+print("felipe balam canul")
+print("diana noh tun")
+print("gregorio poot cupul")
+
